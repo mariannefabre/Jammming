@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jammming-React-App/static/css/main.b5e3a335.chunk.css",
+    "main.css": "/Jammming-React-App/static/css/main.0e0025dc.chunk.css",
     "main.js": "/Jammming-React-App/static/js/main.09a696ed.chunk.js",
     "main.js.map": "/Jammming-React-App/static/js/main.09a696ed.chunk.js.map",
     "runtime-main.js": "/Jammming-React-App/static/js/runtime-main.ae10c746.js",
@@ -10,13 +10,13 @@
     "static/js/3.1cec9ff6.chunk.js": "/Jammming-React-App/static/js/3.1cec9ff6.chunk.js",
     "static/js/3.1cec9ff6.chunk.js.map": "/Jammming-React-App/static/js/3.1cec9ff6.chunk.js.map",
     "index.html": "/Jammming-React-App/index.html",
-    "static/css/main.b5e3a335.chunk.css.map": "/Jammming-React-App/static/css/main.b5e3a335.chunk.css.map",
+    "static/css/main.0e0025dc.chunk.css.map": "/Jammming-React-App/static/css/main.0e0025dc.chunk.css.map",
     "static/js/2.6ded7cee.chunk.js.LICENSE.txt": "/Jammming-React-App/static/js/2.6ded7cee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ae10c746.js",
     "static/js/2.6ded7cee.chunk.js",
-    "static/css/main.b5e3a335.chunk.css",
+    "static/css/main.0e0025dc.chunk.css",
     "static/js/main.09a696ed.chunk.js"
   ]
 }
